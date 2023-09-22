@@ -1,2 +1,1 @@
-# GraphiteTest
-Test Repo for graphite.dev
+This repo is created with Graphite!
